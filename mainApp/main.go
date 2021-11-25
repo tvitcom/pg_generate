@@ -1,6 +1,6 @@
 package main
 
-import "github.com/pepelazz/pg_generate"
+import "github.com/tvitcom/pg_generate"
 
 // файл для создания проекта как бинарника
 func main() {
